@@ -1,7 +1,6 @@
 ---
 layout: post
-image:
-![image](https://user-images.githubusercontent.com/84039199/132386488-c6f61481-a3d1-4065-876f-9e829fece3f6.png)
+image: ![image](https://user-images.githubusercontent.com/84039199/132386488-c6f61481-a3d1-4065-876f-9e829fece3f6.png)
 title: "Empathy, Creativity and Innovation – Wednesday Night Wisdom online speaker event September 15th"
 author: M. De Jean, Director of Marketing, NIU College of Business
 ---
